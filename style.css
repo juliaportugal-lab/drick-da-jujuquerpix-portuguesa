@@ -1,5 +1,5 @@
 body{
-background-color: rgb(244, 157, 172);
+background-color: rgb(209, 120, 135);
 background-size: 20%;
     text-align: center;
     height: 100vh;
@@ -8,9 +8,9 @@ background-size: 20%;
     justify-content: center;
 }
 
-.fanclub{
+.fãclub{
      width: 40%;
-    background-color: rgba(255, 248, 220, 0.86);
+    background-color: rgba(241, 230, 182, 0.86);
     margin: auto;
     border-radius: 15%;
     border-style: groove;
@@ -28,7 +28,7 @@ h1{
     color:rgb(241, 0, 141);
 }
 h2{
-    color:rgb(255, 205, 55);
+    color:rgb(255, 164, 61);
 }
 i{
     color: rgb(243, 17, 17);
