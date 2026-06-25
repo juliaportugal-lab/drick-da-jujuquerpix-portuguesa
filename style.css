@@ -1,0 +1,35 @@
+body{
+background-color: rgb(244, 157, 172);
+background-size: 20%;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fanclub{
+     width: 40%;
+    background-color: rgba(255, 248, 220, 0.86);
+    margin: auto;
+    border-radius: 15%;
+    border-style: groove;
+}
+
+img {
+    margin-top: 40px;
+    width: 150px;
+    border-radius: 50%;
+}
+p{
+    color: rgb(33, 138, 70);
+}
+h1{
+    color:rgb(241, 0, 141);
+}
+h2{
+    color:rgb(255, 205, 55);
+}
+i{
+    color: rgb(243, 17, 17);
+}
